@@ -1,6 +1,5 @@
-# React Crash Course (TodoList)
+# TodoList App
 
-This is the code for the crash course on YouTube
 
 ## Quick Start
 
